@@ -1,0 +1,2 @@
+const characters = require('./characters');
+
